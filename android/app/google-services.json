@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612123870506",
+    "project_id": "flutter-final-6df36",
+    "storage_bucket": "flutter-final-6df36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612123870506:android:efcc7408c4f8d107994a53",
+        "android_client_info": {
+          "package_name": "com.finalexam.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612123870506-p1m9a88f9necirl9kh5dcboon5kp2dbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvW8W-YGSJJwtdXnnviT65X3X8q9mfaig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612123870506-p1m9a88f9necirl9kh5dcboon5kp2dbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
